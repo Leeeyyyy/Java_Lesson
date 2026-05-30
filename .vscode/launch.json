@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "PrimitiveDemo",
             "request": "launch",
             "mainClass": "chapter2.PrimitiveDemo",
@@ -17,6 +18,12 @@
             "request": "launch",
             "mainClass": "chapter2.PrimitiveDataTypeTask",
             "projectName": "ciiccb62026-main_34ee8aa"
+=======
+            "name": "LoopsLesson",
+            "request": "launch",
+            "mainClass": "chapter2.LoopsLesson",
+            "projectName": "Java_Lesson_ab84a2d3"
+>>>>>>> d576d883565963256977a9b7a6b3788ff2f73cd2
         },
         {
             "type": "java",

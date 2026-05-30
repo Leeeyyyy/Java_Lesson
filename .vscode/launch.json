@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimitiveDemo",
+            "request": "launch",
+            "mainClass": "chapter2.PrimitiveDemo",
+            "projectName": "ciiccb62026-main_34ee8aa"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveDataTypeTask",
+            "request": "launch",
+            "mainClass": "chapter2.PrimitiveDataTypeTask",
+            "projectName": "ciiccb62026-main_34ee8aa"
+        },
+        {
+            "type": "java",
             "name": "OperatorsLesson",
             "request": "launch",
             "mainClass": "chapter2.OperatorsLesson",

@@ -27,5 +27,12 @@ public class StringLesson {
         String limString2 = "abcde";
         System.out.println(limitString==limString);
         System.out.println(limString2==limString);
+        String firstName = "Ley";
+        System.out.println(firstName.charAt(2));
+        System.out.println(firstName.indexOf("L"));
+        System.out.println("Ley".startsWith("L"));
+        System.out.println("Khy".startsWith("A"));
+        System.out.println("Inuyasha".contains("sha"));
+        System.out.println("abcde".replace("a","A"));
     }
 }

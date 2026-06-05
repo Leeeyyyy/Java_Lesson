@@ -31,7 +31,7 @@ public class ScannerExample{
         System.out.println("Student GPA: " + gpa);
         scanner.close();
 
-
+           
     }
 }
 //STUDENT ID - NAME- AGE - COURSE -GPA

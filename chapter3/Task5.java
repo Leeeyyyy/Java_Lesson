@@ -5,15 +5,9 @@ public class Task5 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter First Number: ");
+        System.out.print("Enter Three Numbers: ");
         int number1 = scanner.nextInt();
-        scanner.nextLine();
-
-        System.out.print("Enter Second Number: ");
         int number2 = scanner.nextInt();
-        scanner.nextLine();
-
-        System.out.print("Enter Third Number: ");
         int number3 = scanner.nextInt();
 
 

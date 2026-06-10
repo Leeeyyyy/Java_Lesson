@@ -13,8 +13,11 @@ public class PrimitiveDataTypeTask {
         char d = 'd';
         char space = ' ';
         boolean status = true;
+        int two = 2;
+        char dot = '.';
+        String output = 'H' + ze
 
-        System.out.println("" + h + number + space+  w + zero + r + one + d + space + status);
+       
     }
     
 }
